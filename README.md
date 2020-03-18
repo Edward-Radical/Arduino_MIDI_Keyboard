@@ -1,4 +1,7 @@
 # Arduino_MIDI_Keyboard
+
+*(Constantly Updated)*
+
 This project will contain all the steps that you need to built from scratch a fully-functional MIDI musical keyboard based on the Arduino board.
 
 There'll be different folders with step-by-step code for all the different parts that will make up the final project. And at the end a master-code will be uploaded.
